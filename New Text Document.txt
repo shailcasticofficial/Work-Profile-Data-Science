@@ -1,0 +1,7 @@
+Cross Validation: Used in train and test data splitting. Splitting train data into multiple sections or samples and applying KNN on individual sections or any other 
+algorithms will give much good accuracy then simple train test split. On both classification and regression problem. Either the case may be as per business. 
+And check the range of narrowness we get after applying cross validation on train dataset. The purpose of cross validation is edit check or validate the model. See code for social network adds.
+Grid Search: to improve the model accuracy for different hyperparameters which we have to apply in the algorithms for better accuracy to choose the best one. 
+To decide these values.
+XGBooost: helps me improve the model performance as speed of the model. Works only on random forest, decision tree and logistic regression. 
+Follow code file. When dealing with huge data use xgboost use tab key with random forest for fast results.
